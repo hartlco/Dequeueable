@@ -1,0 +1,6 @@
+framework module Pods_Dequeueable_Example {
+  umbrella header "Pods-Dequeueable_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

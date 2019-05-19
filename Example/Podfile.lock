@@ -1,0 +1,16 @@
+PODS:
+  - Dequeueable (0.1.0)
+
+DEPENDENCIES:
+  - Dequeueable (from `../`)
+
+EXTERNAL SOURCES:
+  Dequeueable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Dequeueable: d595be692a9751d27667f255c885149b865c0057
+
+PODFILE CHECKSUM: e17d8e0acca86dbd63e4288bca73ddc8463e402d
+
+COCOAPODS: 1.7.0.beta.3

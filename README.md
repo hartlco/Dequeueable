@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/Dequeueable.svg?style=flat)](https://cocoapods.org/pods/Dequeueable)
 [![Platform](https://img.shields.io/cocoapods/p/Dequeueable.svg?style=flat)](https://cocoapods.org/pods/Dequeueable)
 
+Helper functionality for type-safe UITableView and UICollectionView dequeuing. Heavily inspired by Aleksandar Vacić's  [Swift essentials](http://aplus.rs/2017/swift-essentials/).
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
