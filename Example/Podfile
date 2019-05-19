@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Dequeueable_Example' do
+  pod 'Dequeueable', :path => '../'
+
+  target 'Dequeueable_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
